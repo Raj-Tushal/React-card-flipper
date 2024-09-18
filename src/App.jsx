@@ -53,7 +53,7 @@ const Card = ({ value, updaterHandler, index }) => {
       style={{ backgroundColor: clicked ? colors[index] : '#e2e8f0' }} // Set background color based on the index
       onClick={handleClick}
     >
-      <h1 className={`text-2xl max-sm:text-sm ${clicked ? 'font-extrabold text-4xl italic text-white' : 'text-black font-bold'}`}>
+      <h1 className={`text-xl max-sm:text-sm ${clicked ? 'font-extrabold text-2xl italic text-white' : 'text-black font-bold'}`}>
         {value}
       </h1>
     </div>

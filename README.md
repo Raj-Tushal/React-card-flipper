@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![react-card-flipper-one vercel app_ (2)](https://github.com/user-attachments/assets/06724946-c813-4d12-a2a8-c3e10864c065)
+![react-card-flipper-one vercel app_ (1)](https://github.com/user-attachments/assets/3f9c17bc-5b9e-4b5c-ad22-91bbb91b7113)
